@@ -29,7 +29,7 @@ def main():
 
     multiplication_sum_5 = sum(my_list5)
 
-    print("The sum of all multiples of 3 below 1000 is ", multiplication_sum_5)
+    print("The sum of all multiples of 5 below 1000 is ", multiplication_sum_5)
     print(my_list5)
 
 
